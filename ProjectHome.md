@@ -1,0 +1,1 @@
+Claquete é um aplicativo código-aberto desenvolvido em PHP-GTK2 e suportado por banco de dados SQlite para controle de Dvdtecas.
